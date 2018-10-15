@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNMTilbakebetaling", "NNMTilbakebetaling\NNMTilbakebetaling.csproj", "{ACE5934E-D3DA-491B-8C65-9A866B452CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE5934E-D3DA-491B-8C65-9A866B452CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE5934E-D3DA-491B-8C65-9A866B452CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE5934E-D3DA-491B-8C65-9A866B452CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE5934E-D3DA-491B-8C65-9A866B452CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5257F5C1-0E02-457F-BBFB-61310F923807}
+	EndGlobalSection
+EndGlobal
